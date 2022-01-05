@@ -1,7 +1,7 @@
 Innopolis University
 
 
-AQA Engeneer (Java) course (2021)
+AQA Engineer (Java) course (2021)
 # Final task WikiTestFramework
 
 WikiTestFramework предназначен для автоматизированного тестирования сайта русскоязычной версии онлайн-энциклопедии Wikipedia
